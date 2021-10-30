@@ -10,3 +10,7 @@ int LaterInYear(){
 
     return 2;
 }
+
+int DaysInYear(){
+    return 365;
+}
