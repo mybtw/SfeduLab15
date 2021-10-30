@@ -18,3 +18,8 @@ int DaysInYear(){
 int DaysInYearRange(){
     return 2567;
 }
+
+
+int SeconsInHours(){
+    return 60*60;
+}
